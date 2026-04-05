@@ -8,4 +8,8 @@ This repository contains the code and documentation for an MSc dissertation exam
 
 **Key Finding:** Wikipedia sentence transformer embeddings achieve better model fit (McFadden ρ² = 0.132) than the full suite of official statistics — price, deprivation, crime and income — (ρ² = 0.123) in explaining spatial transaction patterns, and this advantage is concentrated in the new build market.
 
+**Data:** HM Land Registry Price Paid Data (2021), English Indices of Multiple Deprivation 2019 (Ministry of Housing, Communities & Local Government) — for IMD and crime scores, ONS Small Area Income Estimates, ONS Census 2021, Wikipedia (text data)
+
+
+
 
